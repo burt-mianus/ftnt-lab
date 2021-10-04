@@ -1,4 +1,4 @@
-export UI_UM_PASSWORD='ZGEwY2E27TE3ZTVh'
+export UI_UM_PASSWORD='u2aKRmJw'
 export GC_PROFILE='default'
 wget https://34.76.181.186/guardicore-cas-chain-file.pem --no-check-certificate -O /tmp/guardicore_cas_chain_file.pem
 # expected checksum 6d4e4f129a6374e72287ee960dae614675f7cb59b26385b7c62e11169b643fc1
